@@ -116,8 +116,8 @@
         "player_battle_text": "You channel divine energy into your body, restoring it.",
         "enemy_battle_text": "Your enemy channels divine energy to restore his body.",
         "duration": 0,
-        "power": 0,
-        "cost": 0
+        "power": 10,
+        "cost": 30
     },
     {
         "character_type": "magic",
@@ -141,7 +141,7 @@
         "enemy_battle_text": "",
         "duration": 0,
         "power": 0,
-        "cost": 0
+        "cost": 30
     }
 ]
 
